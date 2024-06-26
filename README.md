@@ -5,7 +5,7 @@ I'm Gulnaz Safiullina, a QA Engineer. I have been involved in developing various
 My expertise includes functional manual testing, API testing, test automation, and database testing. I'm proficient in using tools like Postman, DevTools, Jira, and SQL, and I have a foundational understanding of Java and Selenium WebDriver. 
 
 ## CV
-[My CV](https://drive.google.com/file/d/1wtqfxHQL41CIstaIr_ZxSWUkI8CV_d1D/view?usp=drive_link)
+[Link to my CV](https://drive.google.com/file/d/1wtqfxHQL41CIstaIr_ZxSWUkI8CV_d1D/view?usp=drive_link)
 
 ## Contacts
 📧 **Email:** safiullinagulnazild@gmail.com
@@ -21,6 +21,12 @@ My expertise includes functional manual testing, API testing, test automation, a
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+
+## Testing documentation
+
+[SQL Queries]()
+[Postman Collection]()
+[Selenium Project](https://github.com/GulnazSaf/online_shop/tree/master)
 
 ## Languages
 - 🇷🇺 **Russian:** Native
