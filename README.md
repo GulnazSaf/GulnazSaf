@@ -24,9 +24,9 @@ My expertise includes functional manual testing, API testing, test automation, a
 
 ## Testing documentation
 
-- [SQL Queries]()
-- [Postman Collection]()
 - [Selenium Project](https://github.com/GulnazSaf/online_shop/tree/master)
+- [Postman Collection](https://github.com/GulnazSaf/SimpleBookAPI/tree/main)
+- [SQL Queries]()
 
 ## Languages
 - 🇷🇺 **Russian:** Native
