@@ -3,7 +3,7 @@
 I'm Gulnaz Safiullina, I am a QA Engineer with experience in manual testing of web applications, specializing in functional, regression, API, and database testing. I possess foundational skills in test automation with Java Selenium. My technical toolkit includes Postman, DevTools, Jira, DBeaver SQL, and IntelliJ IDEA, which I have effectively utilized to ensure software quality and reliability.
 
 ## CV
-[Link to my CV](https://drive.google.com/file/d/1yFUVSS5S8fStmL4hV46PwR5UPjI5F6Ex/view?usp=sharing)
+[Link to my CV](https://docs.google.com/document/d/1msTWmlovnG0aBm-Gta-YgIqDAzDgoc0S/edit?usp=sharing&ouid=101464964995257120604&rtpof=true&sd=true)
 
 ## Contacts
 📧 **Email:** safiullinagulnazild@gmail.com
